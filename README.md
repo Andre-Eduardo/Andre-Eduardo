@@ -19,6 +19,6 @@
 
 Entusiasta de tecnologia e do universo da programação.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Eduardo&layout=compact&langs_count=4)](https://github.com/Andre-Eduardo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Eduardo&layout=compact&langs_count=4&theme=dracula&count_private=true)](https://github.com/Andre-Eduardo/github-readme-stats)
 
 
